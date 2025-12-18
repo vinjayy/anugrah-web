@@ -29,7 +29,7 @@ export default function AboutPage() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="grid gap-12 lg:grid-cols-2 lg:gap-16 items-center">
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-slate-100">
-              <div className="absolute inset-0 bg-[url('/heavy-equipment-company.jpg')] bg-cover bg-center" />
+              <div className="absolute inset-0 bg-[url('/profile.jpg')] bg-cover bg-center" />
             </div>
             <div>
               <h2 className="text-4xl font-bold tracking-tight text-slate-950 sm:text-5xl">Profil Perusahaan</h2>

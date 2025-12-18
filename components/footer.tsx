@@ -16,7 +16,7 @@ export function Footer() {
               </div>
               <div>
                 <div className="text-lg font-bold text-white">PT. Anugerah Cipta Equipment</div>
-                <div className="text-sm text-slate-400">Alat Berat & Jasa Teknik</div>
+                <div className="text-sm text-slate-400">Heavy equipment & Labor services</div>
               </div>
             </div>
             <p className="mt-4 text-sm leading-6 text-slate-400">
