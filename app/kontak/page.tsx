@@ -5,25 +5,23 @@ export default function ContactPage() {
   const contactInfo = [
     {
       icon: <Phone className="h-6 w-6" />,
-      label: "WhatsApp",
-      value: "62821-2267-2026",
-      link: "https://wa.me/6282122672026",
-    },
-    {
-      icon: <Mail className="h-6 w-6" />,
-      label: "Email",
-      value: "info@anugerahcipta.com",
-      link: "mailto:info@anugerahcipta.com",
+      label: "Nomor Kantor",
+      value: "0511-5213014",
     },
     {
       icon: <Clock className="h-6 w-6" />,
       label: "Jam Operasional",
       value: "Senin - Sabtu: 08.00 - 17.00",
     },
+        {
+      icon: <Clock className="h-6 w-6" />,
+      label: "Jam Operasional AC",
+      value: "Senin - Minggu: 08.00 - 17.00",
+    },
     {
       icon: <MapPin className="h-6 w-6" />,
       label: "Lokasi",
-      value: "Indonesia",
+      value: "Banjarmasin Kalimantan selatan dan tengah",
     },
   ]
 
@@ -97,7 +95,7 @@ export default function ContactPage() {
 
             {/* Image Placeholder */}
             <div className="relative aspect-[4/3] lg:aspect-auto overflow-hidden rounded-2xl bg-slate-100">
-              <div className="absolute inset-0 bg-[url('/modern-office-building.png')] bg-cover bg-center" />
+              <div className="absolute inset-0 bg-[url('/informasi.png')] bg-cover bg-center" />
             </div>
           </div>
         </div>

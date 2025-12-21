@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Phone, Mail } from "lucide-react"
+import { Phone, Mail, LocateIcon, MapPinIcon } from "lucide-react"
 
 export function Footer() {
   const currentYear = new Date().getFullYear()
@@ -40,6 +40,17 @@ export function Footer() {
                 <a href="mailto:info@anugerahcipta.com" className="hover:text-amber-400 transition-colors">
                   info@anugerahcipta.com
                 </a>
+              </div>
+              <div className="flex items-center gap-2 text-sm">
+                <MapPinIcon className="h-4 w-4 text-amber-500" />
+                  Jl. A. Yani Km. 10, Komplek Green Yakin
+
+                  Cluster Amarilis, Jalur AIII No. 225
+
+                  Kertak Hanyar, Kabupaten Banjar
+
+                  Kalimantan Selatan 70654
+                
               </div>
             </div>
           </div>

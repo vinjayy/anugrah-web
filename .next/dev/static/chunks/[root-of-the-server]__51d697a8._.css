@@ -1619,12 +1619,6 @@
     margin-block-end: calc(calc(var(--spacing) * 16) * calc(1 - var(--tw-space-y-reverse)));
   }
 
-  :where(.space-y-20 > :not(:last-child)) {
-    --tw-space-y-reverse: 0;
-    margin-block-start: calc(calc(var(--spacing) * 20) * var(--tw-space-y-reverse));
-    margin-block-end: calc(calc(var(--spacing) * 20) * calc(1 - var(--tw-space-y-reverse)));
-  }
-
   :where(.space-x-4 > :not(:last-child)) {
     --tw-space-x-reverse: 0;
     margin-inline-start: calc(calc(var(--spacing) * 4) * var(--tw-space-x-reverse));
@@ -2009,44 +2003,16 @@
     background-image: url("/about.jpeg");
   }
 
-  .bg-\[url\(\'\/ac-maintenance\.png\'\)\] {
-    background-image: url("/ac-maintenance.png");
-  }
-
-  .bg-\[url\(\'\/acpng-maintenance\.\'\)\] {
-    background-image: url("/acpng-maintenance.");
-  }
-
-  .bg-\[url\(\'\/heavy-equipment-company\.jpg\'\)\] {
-    background-image: url("/heavy-equipment-company.jpg");
-  }
-
-  .bg-\[url\(\'\/heavy-equipment-industrial\.jpg\'\)\] {
-    background-image: url("/heavy-equipment-industrial.jpg");
-  }
-
-  .bg-\[url\(\'\/heavy-equipment-service\.jpg\'\)\] {
-    background-image: url("/heavy-equipment-service.jpg");
-  }
-
   .bg-\[url\(\'\/hero\.jpeg\'\)\] {
     background-image: url("/hero.jpeg");
   }
 
-  .bg-\[url\(\'\/industrial-equipment\.png\'\)\] {
-    background-image: url("/industrial-equipment.png");
+  .bg-\[url\(\'\/informasi\.png\'\)\] {
+    background-image: url("/informasi.png");
   }
 
-  .bg-\[url\(\'\/industrial-machinery-workspace\.jpg\'\)\] {
-    background-image: url("/industrial-machinery-workspace.jpg");
-  }
-
-  .bg-\[url\(\'\/industrial-parts\.jpg\'\)\] {
-    background-image: url("/industrial-parts.jpg");
-  }
-
-  .bg-\[url\(\'\/jualAlatBerat\.jpeg\'\)\] {
-    background-image: url("/jualAlatBerat.jpeg");
+  .bg-\[url\(\'\/modepngrn-office-building\.\'\)\] {
+    background-image: url("/modepngrn-office-building.");
   }
 
   .bg-\[url\(\'\/modern-office-building\.png\'\)\] {
@@ -2055,10 +2021,6 @@
 
   .bg-\[url\(\'\/profile\.jpg\'\)\] {
     background-image: url("/profile.jpg");
-  }
-
-  .bg-\[url\(\'\/service\.png\'\)\] {
-    background-image: url("/service.png");
   }
 
   .bg-\[url\(\'\/servicesAc\.jpeg\'\)\] {
@@ -2074,20 +2036,6 @@
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
 
-  .from-amber-500\/5 {
-    --tw-gradient-from: #f99c000d;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .from-amber-500\/5 {
-      --tw-gradient-from: color-mix(in oklab, var(--color-amber-500) 5%, transparent);
-    }
-  }
-
-  .from-amber-500\/5 {
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-
   .from-slate-950 {
     --tw-gradient-from: var(--color-slate-950);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
@@ -2095,21 +2043,6 @@
 
   .via-orange-500 {
     --tw-gradient-via: var(--color-orange-500);
-    --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-via) var(--tw-gradient-via-position), var(--tw-gradient-to) var(--tw-gradient-to-position);
-    --tw-gradient-stops: var(--tw-gradient-via-stops);
-  }
-
-  .via-orange-500\/5 {
-    --tw-gradient-via: #fe6e000d;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .via-orange-500\/5 {
-      --tw-gradient-via: color-mix(in oklab, var(--color-orange-500) 5%, transparent);
-    }
-  }
-
-  .via-orange-500\/5 {
     --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-via) var(--tw-gradient-via-position), var(--tw-gradient-to) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-via-stops);
   }
@@ -2133,15 +2066,6 @@
   .to-slate-950 {
     --tw-gradient-to: var(--color-slate-950);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-
-  .to-transparent {
-    --tw-gradient-to: transparent;
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
-  }
-
-  .bg-contain {
-    background-size: contain;
   }
 
   .bg-cover {
@@ -2366,11 +2290,6 @@
 
   .font-sans {
     font-family: Geist, Geist Fallback;
-  }
-
-  .text-2xl {
-    font-size: var(--text-2xl);
-    line-height: var(--tw-leading, var(--text-2xl--line-height));
   }
 
   .text-3xl {
@@ -4722,12 +4641,6 @@
   }
 
   @media (min-width: 40rem) {
-    .sm\:grid-cols-3 {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-  }
-
-  @media (min-width: 40rem) {
     .sm\:flex-col {
       flex-direction: column;
     }
@@ -4983,12 +4896,6 @@
   @media (min-width: 64rem) {
     .lg\:grid-cols-4 {
       grid-template-columns: repeat(4, minmax(0, 1fr));
-    }
-  }
-
-  @media (min-width: 64rem) {
-    .lg\:flex-row-reverse {
-      flex-direction: row-reverse;
     }
   }
 

@@ -433,7 +433,7 @@ function ServicesPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "mt-6 text-lg leading-8 text-slate-700",
-                                        children: "Layanan perawatan dan perbaikan sistem AC untuk berbagai sektor industri, komersial, dan transportasi dengan teknisi bersertifikat."
+                                        children: "Layanan perawatan dan perbaikan sistem AC untuk berbagai sektor industri, komersial, dan transportasi dengan teknisi bersertifikat. Serta Pelayanan panggilan teknisi home service."
                                     }, void 0, false, {
                                         fileName: "[project]/app/layanan/page.tsx",
                                         lineNumber: 120,
@@ -506,7 +506,7 @@ function ServicesPage() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 className: "mb-4 text-xl font-bold text-slate-950",
-                                                children: "Industrial & Specialized AC"
+                                                children: "Pelayanan Service AC"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/layanan/page.tsx",
                                                 lineNumber: 140,
@@ -515,13 +515,15 @@ function ServicesPage() {
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                 className: "grid gap-3 sm:grid-cols-2",
                                                 children: [
-                                                    "Industrial AC",
-                                                    "Heavy Equipment AC",
-                                                    "Truck / LV AC",
-                                                    "Ship / Vessel AC",
-                                                    "Hospital AC",
-                                                    "Mall AC",
-                                                    "Factory AC"
+                                                    "Central AC",
+                                                    "Portable AC",
+                                                    "Window AC",
+                                                    "Floot Mounted",
+                                                    "Cassette AC",
+                                                    "Evaporative AC",
+                                                    "Dual Fuel AC",
+                                                    "Smart Air Conditioner",
+                                                    "Ductless Air Conditioner"
                                                 ].map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                         className: "flex items-center gap-3",
                                                         children: [
@@ -529,7 +531,7 @@ function ServicesPage() {
                                                                 className: "h-5 w-5 text-amber-500"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/layanan/page.tsx",
-                                                                lineNumber: 154,
+                                                                lineNumber: 156,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -537,13 +539,13 @@ function ServicesPage() {
                                                                 children: item
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/layanan/page.tsx",
-                                                                lineNumber: 155,
+                                                                lineNumber: 157,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, item, true, {
                                                         fileName: "[project]/app/layanan/page.tsx",
-                                                        lineNumber: 153,
+                                                        lineNumber: 155,
                                                         columnNumber: 21
                                                     }, this))
                                             }, void 0, false, {
@@ -569,12 +571,12 @@ function ServicesPage() {
                                     className: "h-full w-full bg-[url('/servicesAc.jpeg')] bg-cover bg-center"
                                 }, void 0, false, {
                                     fileName: "[project]/app/layanan/page.tsx",
-                                    lineNumber: 163,
+                                    lineNumber: 165,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/layanan/page.tsx",
-                                lineNumber: 162,
+                                lineNumber: 164,
                                 columnNumber: 13
                             }, this)
                         ]
@@ -606,7 +608,7 @@ function ServicesPage() {
                                     children: "Layanan Tambahan"
                                 }, void 0, false, {
                                     fileName: "[project]/app/layanan/page.tsx",
-                                    lineNumber: 173,
+                                    lineNumber: 175,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -614,13 +616,13 @@ function ServicesPage() {
                                     children: "Dukungan lengkap untuk kebutuhan operasional Anda"
                                 }, void 0, false, {
                                     fileName: "[project]/app/layanan/page.tsx",
-                                    lineNumber: 176,
+                                    lineNumber: 178,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/layanan/page.tsx",
-                            lineNumber: 172,
+                            lineNumber: 174,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -636,12 +638,12 @@ function ServicesPage() {
                                                 className: "min-h-[360px] rounded-xl bg-[url('/tambahan.jpeg')] bg-cover bg-center"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/layanan/page.tsx",
-                                                lineNumber: 187,
+                                                lineNumber: 189,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/layanan/page.tsx",
-                                            lineNumber: 186,
+                                            lineNumber: 188,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -650,73 +652,73 @@ function ServicesPage() {
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(ServiceItem, {
                                                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$package$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Package$3e$__["Package"], {}, void 0, false, {
                                                         fileName: "[project]/app/layanan/page.tsx",
-                                                        lineNumber: 193,
+                                                        lineNumber: 195,
                                                         columnNumber: 27
                                                     }, void 0),
                                                     title: "Pengadaan",
                                                     desc: "Pengadaan alat berat dan komponen sesuai kebutuhan proyek."
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/layanan/page.tsx",
-                                                    lineNumber: 192,
+                                                    lineNumber: 194,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(ServiceItem, {
                                                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$truck$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Truck$3e$__["Truck"], {}, void 0, false, {
                                                         fileName: "[project]/app/layanan/page.tsx",
-                                                        lineNumber: 198,
+                                                        lineNumber: 200,
                                                         columnNumber: 27
                                                     }, void 0),
                                                     title: "Rental",
                                                     desc: "Penyewaan alat berat dengan fleksibilitas jangka waktu."
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/layanan/page.tsx",
-                                                    lineNumber: 197,
+                                                    lineNumber: 199,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(ServiceItem, {
                                                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cog$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Cog$3e$__["Cog"], {}, void 0, false, {
                                                         fileName: "[project]/app/layanan/page.tsx",
-                                                        lineNumber: 203,
+                                                        lineNumber: 205,
                                                         columnNumber: 27
                                                     }, void 0),
                                                     title: "Spare Part",
                                                     desc: "Spare part original dan kompatibel."
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/layanan/page.tsx",
-                                                    lineNumber: 202,
+                                                    lineNumber: 204,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/layanan/page.tsx",
-                                            lineNumber: 191,
+                                            lineNumber: 193,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/layanan/page.tsx",
-                                    lineNumber: 183,
+                                    lineNumber: 185,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/layanan/page.tsx",
-                                lineNumber: 182,
+                                lineNumber: 184,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/layanan/page.tsx",
-                            lineNumber: 181,
+                            lineNumber: 183,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/layanan/page.tsx",
-                    lineNumber: 171,
+                    lineNumber: 173,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/layanan/page.tsx",
-                lineNumber: 170,
+                lineNumber: 172,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -729,7 +731,7 @@ function ServicesPage() {
                             children: "Butuh Konsultasi?"
                         }, void 0, false, {
                             fileName: "[project]/app/layanan/page.tsx",
-                            lineNumber: 219,
+                            lineNumber: 221,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -737,7 +739,7 @@ function ServicesPage() {
                             children: "Hubungi kami untuk mendiskusikan kebutuhan layanan Anda"
                         }, void 0, false, {
                             fileName: "[project]/app/layanan/page.tsx",
-                            lineNumber: 222,
+                            lineNumber: 224,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -751,28 +753,28 @@ function ServicesPage() {
                                     children: "Hubungi Kami"
                                 }, void 0, false, {
                                     fileName: "[project]/app/layanan/page.tsx",
-                                    lineNumber: 231,
+                                    lineNumber: 233,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/layanan/page.tsx",
-                                lineNumber: 226,
+                                lineNumber: 228,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/layanan/page.tsx",
-                            lineNumber: 225,
+                            lineNumber: 227,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/layanan/page.tsx",
-                    lineNumber: 218,
+                    lineNumber: 220,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/layanan/page.tsx",
-                lineNumber: 217,
+                lineNumber: 219,
                 columnNumber: 7
             }, this)
         ]
@@ -791,7 +793,7 @@ function ServicesPage() {
                 children: icon
             }, void 0, false, {
                 fileName: "[project]/app/layanan/page.tsx",
-                lineNumber: 252,
+                lineNumber: 254,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -801,7 +803,7 @@ function ServicesPage() {
                         children: title
                     }, void 0, false, {
                         fileName: "[project]/app/layanan/page.tsx",
-                        lineNumber: 254,
+                        lineNumber: 256,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -809,19 +811,19 @@ function ServicesPage() {
                         children: desc
                     }, void 0, false, {
                         fileName: "[project]/app/layanan/page.tsx",
-                        lineNumber: 255,
+                        lineNumber: 257,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/layanan/page.tsx",
-                lineNumber: 253,
+                lineNumber: 255,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/layanan/page.tsx",
-        lineNumber: 251,
+        lineNumber: 253,
         columnNumber: 5
     }, this);
 }

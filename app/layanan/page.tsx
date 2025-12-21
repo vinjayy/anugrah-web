@@ -119,7 +119,7 @@ export default function ServicesPage() {
               </h2>
               <p className="mt-6 text-lg leading-8 text-slate-700">
                 Layanan perawatan dan perbaikan sistem AC untuk berbagai sektor industri,
-                komersial, dan transportasi dengan teknisi bersertifikat.
+                komersial, dan transportasi dengan teknisi bersertifikat. Serta Pelayanan panggilan teknisi home service.
               </p>
             </div>
 
@@ -138,17 +138,19 @@ export default function ServicesPage() {
 
               <div className="rounded-xl bg-white p-8 shadow-lg">
                 <h3 className="mb-4 text-xl font-bold text-slate-950">
-                  Industrial & Specialized AC
+                  Pelayanan Service AC
                 </h3>
                 <ul className="grid gap-3 sm:grid-cols-2">
                   {[
-                    "Industrial AC",
-                    "Heavy Equipment AC",
-                    "Truck / LV AC",
-                    "Ship / Vessel AC",
-                    "Hospital AC",
-                    "Mall AC",
-                    "Factory AC",
+                    "Central AC",
+                    "Portable AC",
+                    "Window AC",
+                    "Floot Mounted",
+                    "Cassette AC",
+                    "Evaporative AC",
+                    "Dual Fuel AC",
+                    "Smart Air Conditioner",
+                    "Ductless Air Conditioner",
                   ].map((item) => (
                     <li key={item} className="flex items-center gap-3">
                       <CheckCircle2 className="h-5 w-5 text-amber-500" />
