@@ -41,7 +41,7 @@ export default function HomePage() {
       icon: <Settings className="h-6 w-6" />,
       title: "Teknisi Berpengalaman",
       description:
-        "Tim profesional dengan keahlian mendalam di bidang alat berat dan sistem teknis.",
+        "Tim profesional dan bersertifikat dgn keahlian dibidang alat berat,generator maupun Air Conditioner",
     },
     {
       icon: <Phone className="h-6 w-6" />,

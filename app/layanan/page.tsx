@@ -115,7 +115,7 @@ export default function ServicesPage() {
                 <Wind className="h-10 w-10" />
               </div>
               <h2 className="text-3xl font-bold tracking-tight text-slate-950 sm:text-4xl">
-                Labor Service AC for Fleet & User
+                Labor Service AC for
               </h2>
               <p className="mt-6 text-lg leading-8 text-slate-700">
                 Layanan perawatan dan perbaikan sistem AC untuk berbagai sektor industri,
@@ -128,6 +128,18 @@ export default function ServicesPage() {
                 <h3 className="mb-4 text-xl font-bold text-slate-950">Fleet & User</h3>
                 <ul className="grid gap-3 sm:grid-cols-2">
                   {["Home", "Office", "Hotel", "Government"].map((item) => (
+                    <li key={item} className="flex items-center gap-3">
+                      <CheckCircle2 className="h-5 w-5 text-amber-500" />
+                      <span className="text-slate-700">{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              
+              <div className="rounded-xl bg-white p-8 shadow-lg">
+                <h3 className="mb-4 text-xl font-bold text-slate-950">Industrial AC</h3>
+                <ul className="grid gap-3 sm:grid-cols-2">
+                  {["Heavy Equipment", "Truck/LV", "Ship/Vessel", "Hospital", "Mall", "Factory"].map((item) => (
                     <li key={item} className="flex items-center gap-3">
                       <CheckCircle2 className="h-5 w-5 text-amber-500" />
                       <span className="text-slate-700">{item}</span>
