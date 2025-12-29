@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { usePathname } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Menu, X, Phone } from "lucide-react"
@@ -21,17 +22,32 @@ export function Navigation() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-slate-200/50 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
+
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-amber-500 to-orange-600 text-white font-bold text-xl">
-            AC
+        <Link href="/" className="flex items-center gap-3">
+          <div className="relative h-15 w-15">
+            <Image
+              src="/anugrah.png"
+              alt="Anugrah Web"
+              fill
+              priority
+              className="object-contain"
+            />
           </div>
+
           <div className="hidden sm:block">
-            <div className="text-lg font-bold text-slate-950">PT. Anugerah Cipta Equipment</div>
-            <div className="text-xs text-slate-600">Alat Berat & Jasa Teknik</div>
+            <div className="text-lg font-bold text-slate-950">
+              Anugrah Web
+            </div>
+            <div className="text-xs text-slate-600">
+              Alat Berat & Jasa Teknik
+            </div>
           </div>
+
           <div className="sm:hidden">
-            <div className="text-base font-bold text-slate-950">PT. ACE</div>
+            <div className="text-base font-bold text-slate-950">
+              Anugrah Web
+            </div>
           </div>
         </Link>
 
@@ -87,13 +103,16 @@ export function Navigation() {
                 href={item.href}
                 className={cn(
                   "block rounded-lg px-3 py-2 text-base font-semibold transition-colors",
-                  pathname === item.href ? "bg-amber-50 text-amber-600" : "text-slate-700 hover:bg-slate-50",
+                  pathname === item.href
+                    ? "bg-amber-50 text-amber-600"
+                    : "text-slate-700 hover:bg-slate-50",
                 )}
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {item.name}
               </Link>
             ))}
+
             <div className="pt-4">
               <Button className="w-full bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold">
                 <a

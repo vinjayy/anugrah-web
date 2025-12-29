@@ -1,27 +1,16 @@
-[00:00:01.667] Server  LOG      ✓ Ready in 1168ms
-[00:00:14.002] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:14.240] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:14.241] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:14.241] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766990629150}
-[00:01:37.810] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/layanan color: rgb(120, 120, 120) color: inherit {"dp":"/layanan","o":"http://localhost:3001/layanan","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766990712716}
-[00:02:54.960] Browser ERROR   ./app/layanan/page.tsx:182:17
-Parsing ecmascript source code failed
-  180 |           </div>
-  181 |         </div>
-> 182 |       </section>
-      |                 ^
-> 183 |
-      | ^
-> 184 |       {/* ================= ADDITIONAL SERVICES ================= */}
-      | ^^^^^^^
-  185 |       <section className="bg-white py-20 lg:py-28">
-  186 |         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-  187 |           <div className="mx-auto max-w-2xl text-center">
-
-Expected '</', got 'jsx text (
-
-      )'
-[00:04:10.882] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:11.133] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:04:11.133] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/layanan","route":"/layanan"}
-[00:04:11.133] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/layanan color: rgb(120, 120, 120) color: inherit {"dp":"/layanan","o":"http://localhost:3001/layanan","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766990866047}
+[00:00:01.370] Server  LOG      ✓ Ready in 882ms
+[00:00:05.174] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.443] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:05.443] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:05.443] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766995625181}
+[00:00:15.011] Server  LOG      ✓ Compiled in 192ms
+[00:00:16.211] Server  LOG      ✓ Compiled in 184ms
+[00:00:21.110] Server  LOG      ✓ Compiled in 178ms
+[00:00:25.056] Server  LOG      ✓ Compiled in 131ms
+[00:00:30.416] Server  LOG      ✓ Compiled in 138ms
+[00:00:33.187] Server  LOG      ✓ Compiled in 147ms
+[00:01:45.918] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:46.060] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:46.060] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:46.060] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766995725797}
+[00:01:48.608] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/kontak color: rgb(120, 120, 120) color: inherit {"dp":"/kontak","o":"http://localhost:3001/kontak","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766995728347}

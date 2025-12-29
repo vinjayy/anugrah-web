@@ -1,5 +1,5 @@
 {
-  "/layanan/page": "app/layanan/page.js",
-  "/page": "app/page.js",
-  "/tentang/page": "app/tentang/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/kontak/page": "app/kontak/page.js",
+  "/page": "app/page.js"
 }
