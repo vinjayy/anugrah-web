@@ -37,16 +37,16 @@ export function Navigation() {
 
           <div className="hidden sm:block">
             <div className="text-lg font-bold text-slate-950">
-              Anugrah Web
+              Anugrah Cipta Equipment
             </div>
             <div className="text-xs text-slate-600">
-              Alat Berat & Jasa Teknik
+              Heavy equipment & Labor services
             </div>
           </div>
 
           <div className="sm:hidden">
             <div className="text-base font-bold text-slate-950">
-              Anugrah Web
+              Anugrah Cipta Equipment
             </div>
           </div>
         </Link>
