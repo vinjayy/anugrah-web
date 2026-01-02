@@ -13,7 +13,7 @@ export function Footer() {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3">
-              <div className="relative h-15 w-15">
+              <div className="relative h-18 w-18 bg-white rounded-md p-2">
                 <Image
                   src="/anugrah.png"
                   alt="Anugrah Web"
