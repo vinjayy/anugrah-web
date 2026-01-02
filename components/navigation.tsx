@@ -37,7 +37,7 @@ export function Navigation() {
 
           <div className="hidden sm:block">
             <div className="text-lg font-bold text-slate-950">
-              Anugrah Cipta Equipment
+              PT. Anugrah Cipta Equipment
             </div>
             <div className="text-xs text-slate-600">
               Heavy equipment & Labor services

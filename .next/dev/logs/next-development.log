@@ -1,12 +1,8 @@
-[00:00:02.515] Server  LOG      ✓ Ready in 1910ms
-[00:00:08.476] Server  LOG      ○ Compiling / ...
-[00:00:11.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:11.440] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:11.440] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:11.440] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767323451634}
-[00:01:12.854] Server  LOG      ✓ Compiled in 186ms
-[00:01:14.232] Server  LOG      ✓ Compiled in 250ms
-[00:12:08.383] Server  LOG      ✓ Compiled in 364ms
-[00:12:20.011] Server  LOG      ✓ Compiled in 64ms
-[00:12:31.426] Server  LOG      ✓ Compiled in 72ms
-[00:12:50.182] Server  LOG      ✓ Compiled in 80ms
+[00:00:02.878] Server  LOG      ✓ Ready in 2.2s
+[00:00:05.946] Server  LOG      ○ Compiling / ...
+[00:00:08.432] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.023] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:09.023] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:09.023] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767325393263}
+[00:00:12.158] Server  LOG      ✓ Compiled in 125ms
+[00:00:18.746] Server  LOG      ✓ Compiled in 108ms
