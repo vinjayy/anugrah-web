@@ -81,7 +81,7 @@ export default function ContactPage() {
                   className="bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold w-full sm:w-auto"
                 >
                   <a
-                    href="https://wa.me/6282122672026"
+                    href="https://wa.me/6282114412026"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2"
@@ -156,7 +156,7 @@ export default function ContactPage() {
           <div className="mt-10">
             <Button size="lg" className="bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold">
               <a
-                href="https://wa.me/6282122672026"
+                href="https://wa.me/6282114412026"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"

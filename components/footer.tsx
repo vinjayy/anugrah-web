@@ -40,7 +40,7 @@ export function Footer() {
               <div className="flex items-center gap-2 text-sm">
                 <Phone className="h-4 w-4 text-amber-500" />
                 <a
-                  href="https://wa.me/6282122672026"
+                  href="https://wa.me/6282114412026"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-amber-400 transition-colors"

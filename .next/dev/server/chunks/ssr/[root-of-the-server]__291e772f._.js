@@ -275,7 +275,7 @@ function ContactPage() {
                                             size: "lg",
                                             className: "bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold w-full sm:w-auto",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "https://wa.me/6282122672026",
+                                                href: "https://wa.me/6282114412026",
                                                 target: "_blank",
                                                 rel: "noopener noreferrer",
                                                 className: "flex items-center gap-2",
@@ -465,7 +465,7 @@ function ContactPage() {
                                 size: "lg",
                                 className: "bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "https://wa.me/6282122672026",
+                                    href: "https://wa.me/6282114412026",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "flex items-center gap-2",

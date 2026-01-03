@@ -71,7 +71,7 @@ export function Navigation() {
         <div className="hidden lg:flex">
           <Button className="bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold">
             <a
-              href="https://wa.me/6282122672026"
+              href="https://wa.me/6282114412026"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"
@@ -116,7 +116,7 @@ export function Navigation() {
             <div className="pt-4">
               <Button className="w-full bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold">
                 <a
-                  href="https://wa.me/6282122672026"
+                  href="https://wa.me/6282114412026"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"

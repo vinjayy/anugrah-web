@@ -87,7 +87,7 @@ export default function HomePage() {
                 className="bg-amber-500 text-slate-950 hover:bg-amber-400 font-semibold px-8"
               >
                 <a
-                  href="https://wa.me/6282122672026"
+                  href="https://wa.me/6282114412026"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
@@ -209,7 +209,7 @@ export default function HomePage() {
         <div className="mt-10">
           <Button size="lg" className="bg-slate-950 text-white px-8">
             <a
-              href="https://wa.me/6282122672026"
+              href="https://wa.me/6282114412026"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"
