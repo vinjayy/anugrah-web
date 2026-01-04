@@ -45,7 +45,7 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="hover:text-amber-400 transition-colors"
                 >
-                  62821-2267-2026
+                  6282114412026
                 </a>
               </div>
 
@@ -55,7 +55,7 @@ export function Footer() {
                   href="mailto:info@anugerahcipta.com"
                   className="hover:text-amber-400 transition-colors"
                 >
-                  info@anugerahcipta.com
+                  marketing@anugerahcipta.co.id
                 </a>
               </div>
 
